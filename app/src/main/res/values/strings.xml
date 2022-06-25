@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FragmentsOdev4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="anasayfa">ANASAYFA</string>
+    <string name="sayfaA">SAYFA A</string>
+    <string name="sayfaB">SAYFA B</string>
+    <string name="sayfaX">SAYFA X</string>
+    <string name="sayfaY">SAYFA Y</string>
+    <string name="gitA">GİT A</string>
+    <string name="gitB">GİT B</string>
+    <string name="gitX">GİT X</string>
+    <string name="gitY">GİT Y</string>
+
+
+</resources>
